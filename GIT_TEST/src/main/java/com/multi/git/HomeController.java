@@ -27,8 +27,8 @@ public class HomeController {
 		logger.info("Welcome home! The client locale is {}.", locale);
 		
 		String version = "Version 1.2";
-		if(version.contains("1.2") == true) {
-			System.out.println(version);
+		if(version.contains("1.3") == false) {
+			System.out.println(version+"!!!!!");
 		} else {
 			System.out.println("1.2버전이 아닙니다.");
 		}
