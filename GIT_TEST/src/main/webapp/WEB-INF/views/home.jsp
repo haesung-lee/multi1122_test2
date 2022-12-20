@@ -10,7 +10,7 @@
 </h1>
 
 <P> The time on the server is ${serverTime}. </P>
-<p> GIT Version 1.0</p>
+<p> GIT Version 1.1</p>
 
 
 
